@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swiper-image-carousel/static/css/main.ba8fdb14.css",
+    "main.js": "/swiper-image-carousel/static/js/main.131c32b1.js",
+    "index.html": "/swiper-image-carousel/index.html",
+    "main.ba8fdb14.css.map": "/swiper-image-carousel/static/css/main.ba8fdb14.css.map",
+    "main.131c32b1.js.map": "/swiper-image-carousel/static/js/main.131c32b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8fdb14.css",
+    "static/js/main.131c32b1.js"
+  ]
+}
