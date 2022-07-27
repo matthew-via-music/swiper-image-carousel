@@ -14,4 +14,4 @@
 
 # Preview
 
-[LIVE DEMO](https://matthew-via-music.github.io/swiper-image-carousel/build/)
+[LIVE DEMO](https://matthew-via-music.github.io/swiper-image-carousel)
