@@ -11,8 +11,8 @@
     "react-dom": "latest",
     "react-router-dom": "latest",
     "react-scripts": "latest",
-    "swiper": "8.3.0",
     "sass": "latest",
+    "swiper": "8.3.0",
     "web-vitals": "latest"
   },
   "scripts": {
@@ -42,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
